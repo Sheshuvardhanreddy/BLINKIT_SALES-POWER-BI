@@ -39,7 +39,7 @@ Outlet Count: 10
 
 📷 Dashboard Preview
 
-<img src = "",alt="wait">
+<img src = "C:\Users\sheshuvardhan reddy\OneDrive\Pictures\Screenshots\MY BLINKIT.png",alt="wait">
 
 📈 Insights Derived from the Report
 ✅ 1. Highest Sales by Item Type
